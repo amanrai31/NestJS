@@ -10,7 +10,7 @@ This is my implementation of a user management system using NestJS. The applicat
 
 ### What You'll Need
 - Node.js (I'm using v16+)
-- npm
+- npm 
 
 ### Setup
 
